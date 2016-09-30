@@ -7,7 +7,12 @@ body {
 .center {
     text-align: center;
 }
-
+.container{
+                max-width:800px;
+                margin:0 auto;
+                color:grey;
+                font-family:sans-serif;
+           }
 .text-big {
     font-size: 300%;
 }
